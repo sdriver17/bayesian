@@ -1,0 +1,12 @@
+Group
+  structure Driver
+is
+
+  hw8.cm
+  driver.sml
+
+  $/basis.cm
+  $/smlnj-lib.cm
+  $/ml-lpt-lib.cm
+  $smlnj-tdp/plugins.cm
+

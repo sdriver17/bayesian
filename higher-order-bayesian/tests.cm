@@ -1,0 +1,14 @@
+Group
+  structure Hw8
+  structure Tests
+is
+  tests.sml
+  unit_test.sml
+
+  hw8.cm
+  driver.cm
+
+  $/basis.cm
+  $/smlnj-lib.cm
+  $smlnj/compiler/compiler.cm
+  $smlnj-tdp/plugins.cm

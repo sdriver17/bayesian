@@ -1,0 +1,26 @@
+The files are as follows:
+
+The following files are modifications of texts on Project Gutenberg
+(www.gutenberg.org).  I have removed most leading and trailing information
+about Project Gutenberg.
+
+henry-adams-democracy.txt:  Henry Adams, _Democracy: An American Novel_.
+henry-adams-education.txt:  Henry Aadms, _The Education of Henry Adams_
+henry-adams-esther.txt:  Henry Adams, _Esther_
+henry-adams-mntsm.txt:  Henry Adams, _Mont-Saint-Michel and Chartres_
+
+melville-confidence-man.txt:  Herman Melville, _The Confidence Man_
+melville-moby-dick.txt:  Herman Melville, _Moby Dick_
+melville-omoo.txt:  Herman Melville, _Omoo_
+melville-typee.txt:  Herman Melville, Typee
+
+saintsbury-heptameron-N.txt:  Margaret, Queen of Navarre, _The Tales of
+	the Heptameron_, translated by George Saintsbury.
+
+twain-ct-yankee.txt:  Mark Twain, _A Connecticut Yankee in King Arthur's
+	Court_
+twain-huck-finn.txt:  Mark Twain, _The Adventures of Huckleberry Finn_
+twain-tom-sawyer.txt:  Mark Twain, _The Adventures of Tom Sawyer_
+
+unknown.txt:  A text by an unknown author.
+

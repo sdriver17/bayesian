@@ -1,0 +1,9 @@
+Group
+  structure Hw8
+is
+  hw8.sml
+
+  $/basis.cm
+  $/smlnj-lib.cm
+  $smlnj/compiler/compiler.cm
+  $smlnj-tdp/plugins.cm
